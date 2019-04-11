@@ -1,18 +1,31 @@
 body {
     background-color: azure;
-    font-family: Helvetia;
-    font-size: small;
+    
+
+
+}
+
+title{
+    font-family: 'Sacramento', cursive;
 }
 
 h1 {
-    font-family:  Garamond;
+    
     color: #5ca0d3;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Gloria Hallelujah', cursive;          
     
 }
 
 h2 {
-    font-family: Garamond;
-    color: seagreen;
+  
+    color: #5ca0d3;
+    margin: 0px, 0px, 0px, 0px;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Gloria Hallelujah', cursive;e;
+    
 }
 
 button{
@@ -26,12 +39,35 @@ button{
     font-family: monospace;
 }
 
-.video{
- 
-    font-family: monospace;
-}
+
 
 textarea{
     font-family: monospace;
 }
  
+div {
+    background-color:white;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+
+    
+}
+
+span{
+    background-color: #5ca0d3;
+}
+
+p {
+    font-family: 'Sacramento', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+    
+    
+}
+
+small{
+    font-family: verdana, sans-serif;
+   
+}
+
