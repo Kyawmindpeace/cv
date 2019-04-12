@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: azure;
+    font-family: 'Patrick Hand', cursive;
+font-family: 'Gochi Hand', cursive;
+font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Patrick Hand', cursive;
+    color: pink;
+}
+
+.round{
+    border-radius: 0%;
+}
+
+.above{
+    position: absolute;
+    right: 355px;
+    top: 200px;
+    font-size: 100px;    
+
+}
+img{
+    border-radius: 100%;         
+}
